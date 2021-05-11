@@ -2,4 +2,4 @@
 
 ## lambda_func_image_resize.py contains image resize code 
 
-## lambda_func_image_resize.py code is taking care of Cognito signup
+## cognito_signup.py code is taking care of Cognito signup
