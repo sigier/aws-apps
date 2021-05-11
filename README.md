@@ -1,1 +1,1 @@
-# aws-apps
+# AWS app for image resizing
