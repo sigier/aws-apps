@@ -6,7 +6,14 @@
 In order to use image resize functionality, user has to be signed up with AWS Cognito service.
 ## lambda_confirm_email.py is taking care of user email confirmation process
 Users email confirmation is supported by AWS Cognito Service
+
 ## lambda_func_add_picture.py is taking care of saving image attributes
+DynamoDb Service is used
+
+## lambda_func_add_picture.py is taking care of saving image attributes
+DynamoDb Service is used
+
+## lambda_func_get_all_pics.py is taking care of getting the list of all images from DynamoDb selected table
 DynamoDb Service is used
 
 
