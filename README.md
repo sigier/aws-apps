@@ -19,4 +19,7 @@ DynamoDb Service is used
 ## lambda_func_get_single_pic.py is taking care of getting a single image by the attribute from DynamoDb selected table
 DynamoDb Service is used
 
+## lambda_func_search_pictures.py is taking care of getting  images attribute collection from DynamoDb selected table
+DynamoDb Service is used
+
 
