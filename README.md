@@ -25,4 +25,7 @@ DynamoDb Service is used
 ## S3-like files serves for: Put, Get, List, Download operations
 S3 Service is used
 
+## Encrypt and decrypt small data string value
+PyCrypto library is used
+
 
